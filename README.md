@@ -70,4 +70,4 @@ Admin Commands:
 3. If you want any help you can ask [here](http://tg://user?id=1489645954)
 
 ## Owner
-1. `https://t.me/sarik_xd` [telegram]
+1. [Sarik](http://t.me/sarik_xd)
