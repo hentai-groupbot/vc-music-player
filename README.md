@@ -25,12 +25,10 @@ Telegram Vc Music-Player Bot To Play Music From Various Sources In Your Group
 ## Run
 
 1. `git clone https://github.com/hentai-groupbot/vc-music-player`, to download the source code.
-2. `cd Telegram_VC_BOT`, to enter the directory.
+2. `cd vc-music-player`, to enter the directory.
 3. `pip3 install -r requirements.txt`, to install the requirements.
 4. `cp sample_config.py config.py`
 5. Edit `config.py` with your own values.
-6. If you are on linux follow [this](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/vnc.md) 
-instruction to set up vnc. If you are using windows you can skip this step.
 6. Download Telegram desktop from https://desktop.telegram.org , Log in using your second account, and connect 
 to 
 the 
@@ -41,7 +39,7 @@ your PC or Server's audio output to audio input. [For Linux]
 [This](https://superuser.com/questions/1133750/set-output-audio-of-windows-as-input-audio-of-microphone) or install Virtual Audio Cable instead.
 9. Run the bot `python3 main.py`
 10. Open Telegram and start voice chat.
-11. Send [commads](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
+11. Send [commads](https://github.com/hentai-groupbot/bc-music-player/blob/master/README.md#commands) to bot to 
 play music.
 
 > Watch The Video Tutorial if you still can't do this 
