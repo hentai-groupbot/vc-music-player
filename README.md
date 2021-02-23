@@ -67,7 +67,7 @@ Admin Commands:
 
 1. More services will be added soon.
 2. Termux is not completely supported yet, might take a week or two.
-3. If you want any help you can ask [here](https://t.me/sarik_xd)
+3. If you want any help you can ask [here](tg://user?id=1489645954)
 
 ## Owner
 1. `https://t.me/sarik_xd` [telegram]
