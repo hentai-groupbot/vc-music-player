@@ -24,8 +24,8 @@ Telegram Vc Music-Player Bot To Play Music From Various Sources In Your Group
 
 ## Run
 
-1. `git clone https://github.com/thehamkercat/Telegram_VC_Bot`, to download the source code.
-2. `cd Telegram_VC_Bot`, to enter the directory.
+1. `git clone https://github.com/hentai-groupbot/vc-music-player`, to download the source code.
+2. `cd Telegram_VC_BOT`, to enter the directory.
 3. `pip3 install -r requirements.txt`, to install the requirements.
 4. `cp sample_config.py config.py`
 5. Edit `config.py` with your own values.
@@ -67,7 +67,7 @@ Admin Commands:
 
 1. More services will be added soon.
 2. Termux is not completely supported yet, might take a week or two.
-3. If you want any help you can ask [here](https://t.me/PatheticProgrammers)
+3. If you want any help you can ask [here](https://t.me/sarik_xd)
 
-## Credits
-1. `https://github.com/cyberboysumanjay/JioSaavnAPI` [For JioSaavnAPI]
+## Owner
+1. `https://t.me/sarik_xd` 
