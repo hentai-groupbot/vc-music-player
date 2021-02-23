@@ -1,6 +1,6 @@
-# Telegram Voice-Chat Bot
+# Telegram Vc Music-Player Bot
 
-Telegram Voice-Chat Bot To Play Music From Various Sources In Your Group
+Telegram Vc Music-Player Bot To Play Music From Various Sources In Your Group
 
 <img src="https://i.imgur.com/8S8NVy0.png" width="530" height="400">
 
@@ -11,9 +11,6 @@ Telegram Voice-Chat Bot To Play Music From Various Sources In Your Group
 2. Windows
 3. Mac
 
-# Diagram
-
-<img src="etc/scheme.png" width="919" height="448">
 
 ## Requirements
 
